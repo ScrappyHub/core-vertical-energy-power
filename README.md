@@ -91,3 +91,6 @@ No system defined here may:
 - directly control energy infrastructure
 - bypass CORE audit or permission enforcement
 - export data without governed authorization
+
+---
+
